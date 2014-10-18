@@ -1,0 +1,13 @@
+# Keys
+
+
+# Creative Tabs
+itemGroup.Test=Mo' Cells
+
+# Items
+
+# Blocks
+tile.Test:BaseCell_Red.name=Red Cell
+tile.Test:BaseCell_Green.name=Green Cell
+tile.Test:BaseCell_Blue.name=Blue Cell
+tile.Test:BaseCell_Purple.name=Purple Cell
